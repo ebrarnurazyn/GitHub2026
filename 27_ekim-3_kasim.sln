@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_ekim-3_kasim", "27_ekim-3_kasim.csproj", "{7AF9A872-EB85-45EF-A1A9-7E8CB737BF90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF9A872-EB85-45EF-A1A9-7E8CB737BF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF9A872-EB85-45EF-A1A9-7E8CB737BF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF9A872-EB85-45EF-A1A9-7E8CB737BF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF9A872-EB85-45EF-A1A9-7E8CB737BF90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F35FA7EC-F891-44A7-92FB-927784E234C4}
+	EndGlobalSection
+EndGlobal
